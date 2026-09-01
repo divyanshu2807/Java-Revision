@@ -1,8 +1,8 @@
 # Java Revision ☕
 
-This repository contains my Java learning and revision programs.
+This repository contains my **Java learning, practice, and revision programs** as I build a strong foundation in Java and problem solving.
 
-## Topics Covered
+## 📚 Topics Covered
 
 * Java Basics
 * Variables & Data Types
@@ -12,16 +12,32 @@ This repository contains my Java learning and revision programs.
 * If-Else & Else-If
 * Ternary Operator
 * Switch Statement
+* While Loop
+* For Loop
+* Functions / Methods
+* Arrays
+* Array Traversal
+* Finding Largest & Smallest Element
 * Basic Practice Programs
 
-## Structure
+## 📂 Structure
 
 ```text
 Java-Revision/
 ├── Javabasics/
 ├── Operators/
-└── conditonal/
+├── conditonal/
+├── Loops/
+├── Functions/
+└── Arrays/
 ```
 
-**Language:** Java ☕
-**Purpose:** Java learning, practice and revision.
+## 🎯 Purpose
+
+The purpose of this repository is to **learn Java concepts, practice programming problems, and strengthen my fundamentals** before moving deeper into DSA and problem solving.
+
+## 🛠️ Language
+
+**Java ☕**
+
+> Learning Java step by step. Practicing consistently. Building towards DSA. 🚀
